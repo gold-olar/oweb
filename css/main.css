@@ -2808,7 +2808,12 @@ html.no-csstransitions .home-content__main {
     border-radius: 50%;
     margin: 0 auto 1.2rem auto;
 }
-
+.clients-testimonials .team__avatar {
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    margin: 0 auto 1.2rem auto;
+}
 .clients-testimonials .testimonials__name, 
 .clients-testimonials .testimonials__pos {
     display: block;
