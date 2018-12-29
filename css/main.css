@@ -3383,8 +3383,8 @@ footer .row {
     border: none;
     width: 85px;
     height: 28px;
-    background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 85px 28px;
+    background: url("../images/footer-logo.png") no-repeat center;
+    background-size: 85px 50px;
     font: 0/0 a;
     text-shadow: none;
     color: transparent;
